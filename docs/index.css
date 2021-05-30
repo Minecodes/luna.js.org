@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap');
+
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+#header {
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Press Start 2P', cursive;
+}
+
+div {
+    text-align: center;
+    font-family: 'Fira Mono', monospace;
+}
